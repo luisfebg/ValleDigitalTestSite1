@@ -1,10 +1,11 @@
 export const siteConfig = {
   name: "Valle Digital",
-  description: "Valle Digital company website",
+  tagline: "Rooted in clarity. Built for growth.",
+  description:
+    "Valle Digital is a digital consulting and technology partner connecting Colombian roots with international consulting and technology experience.",
   nav: [
     { label: "Home", href: "/" },
     { label: "About", href: "/about" },
     { label: "Services", href: "/services" },
-    { label: "Contact", href: "/contact" },
   ],
 };
